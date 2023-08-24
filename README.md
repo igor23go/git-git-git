@@ -1,5 +1,4 @@
-#Layout Sample Project редактирую всередине ГИТА
-###Атеперь редактирую в VS Code
+#Layout Sample Project
 
 ---
 
