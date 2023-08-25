@@ -1,10 +1,8 @@
 # Layout Sample Project
 
----
-
 [Site Link](https://igor23go.github.io/git-git-git/)
 
-##The tech stack is:
+## The tech stack is:
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/CSS)
