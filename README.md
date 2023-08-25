@@ -1,4 +1,4 @@
-#Layout Sample Project
+# Layout Sample Project
 
 ---
 
@@ -12,11 +12,14 @@
 - [Sass(Scss)](https://sass-lang.com/)
 - [BEM methodology](https://en.bem.info/methodology/)
 
-##Author
+## Author
 
 - Bikbov Igor
 
-#hi
-##hi
-###hi
-####hi
+# hi
+
+## hi
+
+### hi
+
+#### hi
